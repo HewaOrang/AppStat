@@ -28,4 +28,6 @@ The notebook depends on the [numpy]() package, the [matplotlib] package...
 
 ## About the Author
 
+**Name:** Hewa
+
 I am a final year student on the Higher Diploma in Science in Computing in Data Analytics
